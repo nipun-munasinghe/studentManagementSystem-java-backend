@@ -1,5 +1,5 @@
 
-# Student Management System
+# Student Management System 🧑🏻‍🎓
 
 The Student Management System is a Java console application designed to manage student information effectively. This project demonstrates key Object-Oriented Programming (OOP) concepts, such as encapsulation, abstraction, and modular design.
 
