@@ -66,7 +66,7 @@ Science - N/A
 - **StudentManager.java:** Manages the list of students and provides functionalities like adding, removing, and searching students.
 ## Future Improvements
 
-- mplement data persistence using file storage or a database.
+- Implement data persistence using file storage or a database.
 - Add a graphical user interface (GUI) for better usability.
 - Enhance validation for user inputs.
 ## Acknowledgements
